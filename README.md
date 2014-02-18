@@ -3,7 +3,7 @@
 ## Usage
 
 ```puppet
-include textmate
+include reggy
 ```
 
 ## Required Puppet Modules
